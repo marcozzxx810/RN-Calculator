@@ -15,4 +15,4 @@ Using eval to calculate but it is a dangerous thing to do with JS
 
 ### UI
 
-![Imgur Image](https://i.imgur.com/MoVKOOT.png)
+![Imgur Image](https://i.imgur.com/MoVKOOT.png =250x250)
