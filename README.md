@@ -5,8 +5,10 @@ This is a React Native Calculator
 install expo and then done 
 
 
-`npm install -g expo-cli `
+`npm install -g expo-cli 
+ expo start
+`
 
 
-#Problems
+# Problems
 Using eval to calculate but it is a dangerous thing to do with JS
