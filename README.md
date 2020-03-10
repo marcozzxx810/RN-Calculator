@@ -1,7 +1,7 @@
 # RN-Calculator
 This is a React Native Calculator
 
-# Setup
+## Setup
 install expo and then done 
 
 
@@ -10,5 +10,5 @@ install expo and then done
 `
 
 
-# Problems
+## Problems
 Using eval to calculate but it is a dangerous thing to do with JS
